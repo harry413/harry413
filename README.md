@@ -9,6 +9,12 @@
 ## A Passionate Frontend Developer & an Enthusiast Learner 💎
 
 
+### Connect with me
+![image](https://github.com/harry413/sachin413/assets/73785500/b7852f7b-f0ed-42b1-8dbf-414779ee789c)
+
+
+
+
 ### Languages & Framework & Tools
 
 ![image](https://github.com/harry413/sachin413/assets/73785500/678258ca-74c6-46fc-82a5-b7fe240b1820) 
