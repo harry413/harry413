@@ -2,7 +2,6 @@
 
 
 ![Frontend Developer](image.png)
-![image](https://github.com/harry413/sachin413/assets/73785500/9b6831bf-b98c-4276-9862-c1f918ae3058)
 
 
 # Hi 👋, I'm Sachin Patidar
