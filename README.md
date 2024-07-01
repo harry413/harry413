@@ -13,7 +13,7 @@
 ![image](https://github.com/harry413/sachin413/assets/73785500/b7852f7b-f0ed-42b1-8dbf-414779ee789c)
 
 
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 ### Languages & Framework & Tools
 
