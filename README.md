@@ -12,11 +12,12 @@
 
 ### Connect with me
 [![image](https://github.com/harry413/sachin413/assets/73785500/36a95fcc-ca1e-4f96-acfb-4c0d6f03ba70)](https://www.linkedin.com/in/sachin-patidar-921578213/)
- sachinpatidar413@gmail.com / <a href = "" target="_blank"></a>
+ sachinpatidar413@gmail.com
 
 
 
 ### Languages & Framework & Tools
+<div>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <br/>
@@ -45,7 +46,7 @@
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
- 
+</div>
 
 
 
