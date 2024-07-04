@@ -10,10 +10,13 @@
 ## A Passionate Frontend Developer & an Enthusiast Learner 💎
 
 
-### Connect with me
-[![image](https://github.com/harry413/sachin413/assets/73785500/36a95fcc-ca1e-4f96-acfb-4c0d6f03ba70)](https://www.linkedin.com/in/sachin-patidar-921578213/)
-<br/>
-sachinpatidar413@gmail.com
+### <h1 align='center'>Connect with me</h1>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sachin-patidar-921578213/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="SACHIN PATIDAR" height="30" width="40" /></a>
+<a href="https://www.instagram.com/harryp.41/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="HARRYP.41" height="30" width="40" /></a>
+<a href = "mailto: sachinpatidar413@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+</p>
 
 
 
