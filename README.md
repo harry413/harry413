@@ -4,7 +4,8 @@
 ![Frontend Developer](image.png)
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=6497b1&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+👋+I'm+Sachin+Patidar" align="middle" alt="Hey 👋, I'm Sachin Patidar">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=6497b1&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+%F0%9F%91%8B+I'm+Sachin+Patidar" align="middle" alt="Hey 👋, I'm Sachin Patidar">
+
 
 ## <h2 align='center'>A Passionate Frontend Developer & an Enthusiast Learner 💎</h2>
 
